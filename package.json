@@ -1,0 +1,20 @@
+{
+  "name": "vue-firebase",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "firebase": "^8.9.1-8.9.1-exp-types-exploration.635c9e3fd",
+    "vue": "^3.2.23",
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.10.2",
+    "vite": "^2.7.0"
+  }
+}
